@@ -28,3 +28,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kanchanachathuranga&show_icons=true&locale=en" alt="kanchanachathuranga" /></p>
   
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchanachathuranga&" alt="kanchanachathuranga" /></p>
+
+## 🏅 Holopin Badges  
+
+[![@@kanchana's Holopin board](https://holopin.me/@kanchana)](https://holopin.io/@@kanchana)
