@@ -15,7 +15,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="[https://linkedin.com/in/kanchanachathuranga](https://www.linkedin.com/in/kanchana-chathuranga-00693b318/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchanachathuranga" height="30" width="40" /></a>
+<a href="[[https://linkedin.com/in/kanchanachathuranga](https://www.linkedin.com/in/kanchana-chathuranga-00693b318/)](https://www.linkedin.com/in/kanchana-chathuranga-00693b318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanchanachathuranga" height="30" width="40" /></a>
 <a href="[https://fb.com/kanchana chathuranga](https://web.facebook.com/kanchana.chathuranga.9847)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kanchana chathuranga" height="30" width="40" /></a>
 <a href="[https://instagram.com/@_kanchana_chathuranga_](https://www.instagram.com/_kanchana_chathuranga_/profilecard/?igsh=MTVscmoycDRlMXRqMQ==)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@_kanchana_chathuranga_" height="30" width="40" /></a>
 </p>
